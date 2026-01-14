@@ -10,6 +10,12 @@
 |---|---|
 | <div align="center">[calycode.com](https://calycode.com)</div> | <div align="center">[@calycode/CLI docs](https://calycode.com/cli/docs)</div> |
 
+## Chrome Extension for Xano
+
+| Chrome Web Store | Docs page |
+|---|---|
+| <div align="center">[Install the extension](https://chromewebstore.google.com/detail/hadkkdmpcmllbkfopioopcmeapjchpbm?utm_source=item-share-cb)</div> | <div align="center">[@calycode extension docs](https://extension.calycode.com)</div> |
+
 ## ‼️Manifest
 
 I believe developer tools should empower teams with clarity, transparency, and control. That's why [@calycode/cli](https://www.npmjs.com/package/@calycode/cli) was born.
