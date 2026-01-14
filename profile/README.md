@@ -12,8 +12,8 @@
 
 ## ‼️Manifest
 
-I believe developer tools should empower teams with clarity, transparency, and control—not guesswork. That's why [@calycode/cli](https://www.npmjs.com/package/@calycode/cli) was born.
-We believe developer tools should empower teams with clarity, transparency, and control. We build open, reliable, and automated workflows for Xano, prioritizing reproducibility and human oversight over black-box AI. Our mission is to make backend development safe, collaborative, and future-ready. So that every team can ship confidently, own their code, and never lose sight of what matters most: trust in the process.
+I believe developer tools should empower teams with clarity, transparency, and control. That's why [@calycode/cli](https://www.npmjs.com/package/@calycode/cli) was born.
+We build open, reliable, and automated workflows for Xano, prioritizing reproducibility and human oversight over black-box AI. Our mission is to make backend development safe, collaborative, and future-ready. So that every team can ship confidently, own their code, and never lose sight of what matters most: trust in the process.
 
 ## 📣 Contribute & Connect
 
